@@ -1,9 +1,9 @@
 welcome community,
  
-As we know ,in quarantine a lot of people got many important certificate free.
+As we know ,in quarantine a lot of people got many important  free certificate.
 
-So the goal of this repository is to store link or name of plate forme that offer free certificat.
+So the goal of this repository is to store links or names of plate forme that offer free certificats.
 
-you task is to create a new file your_name.txt and give link or name of free palte_forme .
+your task is to create a new file  "your_name.txt" and give  in minimum one link or name of free palte_forme .
 
-i hope this repositery thrive more and more and more
+i hope this repositery improve more and more
